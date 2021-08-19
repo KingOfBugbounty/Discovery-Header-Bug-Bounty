@@ -1,6 +1,6 @@
 # Search Headers DoD Priv8
 # @OFJAAAH & @wellpunk
- 
+#Script Server Banner
 
 import requests
 from colorama import Fore, Style
