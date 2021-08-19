@@ -1,4 +1,4 @@
-# Discovery-Header-DoD---Bug-Bounty
+# Discovery Header DoD Bug-Bounty
 Discovery Header Bug Bounty to DoD:
 
 Did you know that DoD accepts server headers? (example: apache"version" , php"version") ?
