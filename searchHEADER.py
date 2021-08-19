@@ -1,5 +1,6 @@
 # Search Headers DoD Priv8
-# @OFJAAAH
+# @OFJAAAH & @wellpunk
+ 
 
 import requests
 from colorama import Fore, Style
