@@ -7,6 +7,10 @@ Did you know that DoD accepts server headers? 😲 (example: apache"version" , p
 In this code it is possible to extract all headers from the URLS. 
 Tracking versions and being able to report as cwe-200 on hackerone.
 
+the 200dds file is an example:
+
+You can put your list of treated URLS.
+
 [![asciicast](https://asciinema.org/a/g2kPiCA0qwVHImPsfFCIClzm8.svg)](https://asciinema.org/a/g2kPiCA0qwVHImPsfFCIClzm8)
 
 
