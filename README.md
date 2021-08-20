@@ -14,6 +14,28 @@ You can put your list of treated URLS.
 [![asciicast](https://asciinema.org/a/g2kPiCA0qwVHImPsfFCIClzm8.svg)](https://asciinema.org/a/g2kPiCA0qwVHImPsfFCIClzm8)
 
 
+### Install dependencies
+
+```bash
+git clone https://github.com/KingOfBugbounty/Discovery-Header-Bug-Bounty.git
+
+cd Discovery-Header-Bug-Bounty
+
+pip install -r requirements.txt
+
+python3 searchHEADER.py -h
+
+usage: searchHEADER.py [-h] help
+
+positional arguments:
+  help        Run to code = python3 searchHEADER.py FileToUrls
+
+optional arguments:
+  -h, --help  show this help message and exit
+
+
+```
+
 # Project
 
 [![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github)](https://github.com/Naereen/badges/)
